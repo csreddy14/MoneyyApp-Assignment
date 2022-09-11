@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1071095555588",
+    "project_id": "just-in-ccd5e",
+    "storage_bucket": "just-in-ccd5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071095555588:android:faf0a0eb21bb7ced2af751",
+        "android_client_info": {
+          "package_name": "com.example.justin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071095555588-mcuv8bka9bm1ldlk6s5je995cn0vqbpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXEhCBETtxGeaR0yqxanQWSK-s0Ru4HQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071095555588-mcuv8bka9bm1ldlk6s5je995cn0vqbpg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
